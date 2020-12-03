@@ -1,0 +1,5 @@
+Django==3.0.11
+djangorestframework==3.12.1
+mysqlclient
+gunicorn
+django-redis
